@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(./assets/bg-img.png);
+}
+.weather-card {
+    background-color: white !important;
+    border-radius: 50px !important;
+    transition: 0.3s ease-out;
+    cursor: pointer;
+}
+.weather-card:hover {
+    transform: scale(1.03);
+}
+.btn {
+  cursor: pointer;
+  transition: 0.3 ease-in;
+  border: 2px solid skyblue !important;
+  font-size: 18px !important;
+}
+input {
+  border: 2px solid grey !important;
+}
+.btn:hover {
+  background-color: skyblue !important;
+  color: white !important;
+}
