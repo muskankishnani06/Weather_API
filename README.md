@@ -1,8 +1,8 @@
+Video link :- https://drive.google.com/file/d/1BVUtZbKJfk3jpMmK2Opp_0k6BpwSqhae/view?usp=drive_link
 # Weather App
 
 A simple, responsive weather app that lets you search for any city and instantly see its current temperature and weather conditions. Built with vanilla JavaScript and styled with Bootstrap.
 
-![Weather App](assets/weather-img.png)
 
 ## Features
 
